@@ -2,16 +2,17 @@ import express from "express";
 import dotenv from "dotenv";
 import router from "./routes/QuizRoute.js";
 import mongoose from "mongoose";
+import cors from "cors";
 
 const app = express();
+app.use(cors());
 dotenv.config();
+app.use("/api/quiz", router);
 
 const PORT = process.env.PORT;
 const mongoCLient = process.env.DB_URL;
 
 app.use(express.json());
-
-app.use("/api/quiz", router);
 
 mongoose
   .connect(mongoCLient)
