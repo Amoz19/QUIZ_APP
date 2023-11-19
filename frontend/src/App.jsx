@@ -6,7 +6,7 @@ function App() {
 
   console.log(quizz);
 
-  return <h1>Hello</h1>;
+  return <h1>He</h1>;
 }
 
 export default App;
