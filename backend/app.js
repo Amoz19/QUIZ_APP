@@ -21,4 +21,4 @@ mongoose
 
 app.listen(PORT, () => console.log(`server is listening on ${PORT}`));
 
-export default server;
+export default app;
