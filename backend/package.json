@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node --watch server.js"
+    "start": "node --watch server.js",
+    "vercel-build": "echo hello"
   },
   "keywords": [],
   "author": "",
@@ -13,8 +14,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
-    "mongoose": "^8.0.1",
-    "vercel-build": "echo hello"
+    "mongoose": "^8.0.1"
   },
   "type": "module"
 }
