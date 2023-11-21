@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node --watch app.js",
-    "vercel-build": "echo hello"
+    "start": "node --watch app.js"
   },
   "keywords": [],
   "author": "",
