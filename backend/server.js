@@ -20,3 +20,5 @@ mongoose
   .catch((err) => console.log(err.message));
 
 app.listen(PORT, () => console.log(`server is listening on ${PORT}`));
+
+export default server;
