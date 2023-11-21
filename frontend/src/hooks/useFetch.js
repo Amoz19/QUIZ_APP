@@ -5,7 +5,7 @@ import axios from "axios";
 export default function useFetch(url) {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(false);
-  const [quizz, setQuizz] = useState(false);
+  const [quizz, setQuizz] = useState([]);
 
   useEffect(() => {
     const controller = new AbortController();
