@@ -6,4 +6,4 @@
 
 🔎 Preview
 
-![Alt text](https://github.com/Amoz19/QUIZ_APP/tree/master/preview.gif)
+![Alt text](https://github.com/Amoz19/QUIZ_APP/blob/master/preview.gif)
