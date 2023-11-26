@@ -1,6 +1,5 @@
 import { useState } from "react";
 import useFetch from "../hooks/useFetch";
-import cn from "../utils/tailwindUtil";
 
 const apiUrl = import.meta.env.VITE_API_URL;
 
