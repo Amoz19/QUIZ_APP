@@ -6,4 +6,7 @@
 
 🔎 Preview
 
-![Alt text](https://github.com/Amoz19/QUIZ_APP/blob/master/preview.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amoz19/QUIZ_APP/master/preview.gif" alt="Alt text">
+</p>
+
