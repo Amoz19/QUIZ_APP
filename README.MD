@@ -5,8 +5,4 @@
 🚀 Deployed to Vercel, using serverless for backend
 
 🔎 Preview
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amoz19/QUIZ_APP/master/preview.gif" alt="Alt text">
-</p>
-
+![Alt text](https://github.com/Amoz19/QUIZ_APP/tree/master/preview.gif)
